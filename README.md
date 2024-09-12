@@ -1,5 +1,5 @@
 # POC02
-
+# Danilo Gigliotti e Gabriela Nellessen #
 1. **sort**:
    - O método `sort` ordena os elementos de um array de acordo com uma função de comparação opcional.
    - Exemplo:
