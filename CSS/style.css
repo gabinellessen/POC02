@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 30px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: rgb(95, 95, 95);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.example {
+    padding: 10px;
+    background-color: #e8e8e8;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
