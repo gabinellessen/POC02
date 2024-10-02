@@ -1,4 +1,7 @@
 # POC02
+## Resumo:
+   Essa POC têm como objetivo explicar como explorar ao máximo os métodos Sort, Map, Reduce, Filter e spread. Iremos também dar exemplos de como podemos aplicar isso no código. 
+
 # Danilo Gigliotti e Gabriela Nellessen #
 1. **sort**:
    - O método `sort` ordena os elementos de um array de acordo com uma função de comparação opcional.
